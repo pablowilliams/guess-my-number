@@ -17,3 +17,9 @@ Depending on the number input, the user receives different messages until they g
 - CSS
 - HTML
 - <a href="https://github.com/catdad/canvas-confetti">Confetti API</a>
+
+## Notes & Local Extensions
+
+- Cloned to study the DOM-update + Math.random() game loop.
+- Next steps: add a difficulty selector (range 1–50/1–100) and a best-score persisted via localStorage.
+- Credit: original project by [catherineisonline](https://github.com/catherineisonline/guess-my-number).
